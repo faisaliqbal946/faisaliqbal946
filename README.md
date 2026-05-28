@@ -84,17 +84,18 @@ Currently exploring and improving my skills in:
 
 ## Projects
 
-I am gradually building and improving projects related to mathematics, programming, data science, and machine learning.
+I am actively developing projects at the intersection of mathematics, programming, data science, machine learning, and scientific computing.
 
-Some project areas I am interested in include:
+My current interests and project areas include:
 
-- Mathematical modeling and numerical simulations
-- Data analysis and visualization
-- Machine learning experiments
-- Scientific computing with Python, MATLAB, and C++
-- Educational tools for mathematics and programming
+- Error correction and decoding algorithms using LDPC codes
+- Pattern recognition and machine learning applications using real-world datasets
+- Scientific computing and data-driven modeling
+- Mathematical modeling and forecasting of environmental data such as CO₂ fluxes
+- Desktop applications for microscopy image preprocessing, segmentation, cell detection, measurement, and data export
+- Educational and analytical tools for mathematics and programming
 
-> More projects will be added as I continue learning and developing my portfolio.
+More projects and detailed implementations will be added as I continue learning, researching, and expanding my technical portfolio.
 
 ---
 
