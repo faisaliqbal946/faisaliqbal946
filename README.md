@@ -113,11 +113,21 @@ More projects and detailed implementations will be added as I continue learning,
 
 ---
 
+<div align="center">
+
 ## GitHub Stats
 
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisaliqbal946&show_icons=true&theme=default&hide_border=true)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faisaliqbal946&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisaliqbal946&layout=compact&theme=default&hide_border=true)
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=faisaliqbal946&show_icons=true&theme=tokyonight&hide_border=true" alt="Faisal Iqbal's GitHub Stats" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaliqbal946&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
 
 ---
 
