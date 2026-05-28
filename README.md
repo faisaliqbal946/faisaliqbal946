@@ -113,9 +113,11 @@ More projects and detailed implementations will be added as I continue learning,
 
 ---
 
-<div align="center">
 
 ## GitHub Stats
+
+
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=faisaliqbal946&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
