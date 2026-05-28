@@ -16,9 +16,10 @@
 
 ## Hi, I'm Faisal Iqbal 👋
 
-I am a Master's student in Mathematics at **Friedrich Schiller University Jena**, with a strong interest in programming, data science, machine learning, and scientific computing.
+I am a Master’s student in Mathematics at Friedrich Schiller University Jena with a strong interest in programming, data science, machine learning, and scientific computing.
 
-My academic background gives me a solid foundation in mathematical reasoning, problem solving, and analytical thinking. I am currently building practical skills in software development and machine learning, with the goal of applying mathematical ideas to real-world computational and data-driven problems.
+My academic background has provided me with a solid foundation in mathematical reasoning, problem-solving, and analytical thinking. I am currently developing practical skills in software development and machine learning, with the goal of applying mathematical concepts to real-world computational and data-driven problems.
+
 
 ---
 
