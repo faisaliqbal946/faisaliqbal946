@@ -97,8 +97,8 @@ Some project areas I am interested in include:
 I am open to academic collaboration, research-oriented projects, internships, and opportunities related to mathematics, data science, machine learning, and software development.
 
 - GitHub: [github.com/faisaliqbal946](https://github.com/faisaliqbal946)
-- LinkedIn: Add your LinkedIn profile here
-- Email: Add your email address here
+- LinkedIn: https://www.linkedin.com/in/faisal-iqbal-b19596277/
+- Email: faisal.iqbal@uni-jena.de
 
 ---
 
