@@ -51,13 +51,15 @@ My academic background gives me a solid foundation in mathematical reasoning, pr
 
 ## Current Learning Goals
 
-I am currently focused on strengthening my skills in:
+Currently exploring and improving my skills in:
 
-- Machine learning fundamentals
-- Python for data analysis and scientific computing
-- Software development best practices
+- Machine Learning and Data Science
+- Python and Java for software development
+- GUI application development
+- Python for scientific computing and data analysis
+- Software development and clean coding practices
 - Algorithms and numerical methods
-- Building clean, well-documented technical projects
+- Building professional and well-documented technical projects
 
 ---
 
