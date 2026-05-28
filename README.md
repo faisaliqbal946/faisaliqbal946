@@ -122,7 +122,7 @@ More projects and detailed implementations will be added as I continue learning,
 
 ## Contact
 
-I am open to academic collaboration, research-oriented projects, internships, and opportunities related to mathematics, data science, machine learning, and software development.
+I am open to academic collaborations, thesis and research-driven projects, research assistant opportunities, internships, and roles in mathematics, data science, machine learning, and software development.
 
 [![Email](https://img.shields.io/badge/Email-faisal.iqbal%40uni--jena.de-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faisal.iqbal@uni-jena.de)
 [![GitHub](https://img.shields.io/badge/GitHub-faisaliqbal946-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faisaliqbal946)
