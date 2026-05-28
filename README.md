@@ -6,54 +6,99 @@
 
 ## About Me
 
-Hi, I am **Faisal Iqbal**, a Master's student in **Mathematics at Friedrich Schiller University Jena** with a strong interest in programming, data science, machine learning, and scientific computing.
+# Hi, I'm Faisal Iqbal 👋
 
-My academic background has shaped the way I approach problems: carefully, logically, and with attention to structure. I enjoy connecting mathematical ideas with practical computational tools, and I am currently building stronger skills in machine learning and software development.
+I am a Master's student in Mathematics at **Friedrich Schiller University Jena**, with a strong interest in programming, data science, machine learning, and scientific computing.
 
-I am interested in projects that combine analytical thinking, clean implementation, and real-world applications, especially in data-driven and research-oriented environments.
+My academic background gives me a solid foundation in mathematical reasoning, problem solving, and analytical thinking. I am currently building practical skills in software development and machine learning, with the goal of applying mathematical ideas to real-world computational and data-driven problems.
 
-## Academic & Technical Interests
+---
 
-- Applied Mathematics
-- Data Science
-- Machine Learning
-- Scientific Computing
-- Numerical Methods
-- Algorithms
-- Software Development
-- Mathematical Modeling
+## About Me
+
+- 🎓 Master's student in Mathematics at Friedrich Schiller University Jena
+- 💻 Interested in programming, data science, machine learning, and scientific computing
+- 📊 Exploring the connection between mathematics, algorithms, and data
+- 🌱 Currently learning machine learning and software development
+- 🧠 Motivated by clean code, logical thinking, and continuous learning
+
+---
 
 ## Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+### Programming Languages
 
-## Currently Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
-- Machine learning fundamentals and applied workflows
+### Areas of Interest
+
+![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
+![Scientific Computing](https://img.shields.io/badge/Scientific%20Computing-2E7D32?style=for-the-badge)
+![Numerical Methods](https://img.shields.io/badge/Numerical%20Methods-6A1B9A?style=for-the-badge)
+![Software Development](https://img.shields.io/badge/Software%20Development-37474F?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## Current Learning Goals
+
+I am currently focused on strengthening my skills in:
+
+- Machine learning fundamentals
 - Python for data analysis and scientific computing
-- Software development practices and project organization
-- Numerical methods and computational problem solving
-- Writing clean, readable, and well-documented code
+- Software development best practices
+- Algorithms and numerical methods
+- Building clean, well-documented technical projects
+
+---
 
 ## Projects
 
-I am currently developing and improving projects related to mathematics, programming, data science, and machine learning.
+I am gradually building and improving projects related to mathematics, programming, data science, and machine learning.
 
-Areas I am especially interested in exploring:
+Some project areas I am interested in include:
 
-- Mathematical modeling and numerical simulation
+- Mathematical modeling and numerical simulations
 - Data analysis and visualization
 - Machine learning experiments
 - Scientific computing with Python, MATLAB, and C++
 - Educational tools for mathematics and programming
+
+> More projects will be added as I continue learning and developing my portfolio.
+
+---
+
+## Academic & Technical Interests
+
+- Applied Mathematics
+- Numerical Analysis
+- Machine Learning
+- Data Science
+- Scientific Computing
+- Algorithms
+- Mathematical Modeling
+- Software Development
+
+---
+
+## GitHub Stats
+
+![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisaliqbal946&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisaliqbal946&layout=compact&theme=default&hide_border=true)
+
+---
 
 ## Contact
 
@@ -62,3 +107,8 @@ I am open to academic collaboration, research-oriented projects, internships, an
 [![Email](https://img.shields.io/badge/Email-faisal.iqbal%40uni--jena.de-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:faisal.iqbal@uni-jena.de)
 [![GitHub](https://img.shields.io/badge/GitHub-faisaliqbal946-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/faisaliqbal946)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Faisal%20Iqbal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-iqbal-b19596277/)
+
+
+---
+
+Thank you for visiting my profile.
