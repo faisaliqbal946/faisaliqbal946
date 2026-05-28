@@ -123,7 +123,7 @@ More projects and detailed implementations will be added as I continue learning,
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=faisaliqbal946&show_icons=true&theme=tokyonight&hide_border=true" alt="Faisal Iqbal's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=faisaliqbal946&show_icons=true&theme=tokyonight&hide_border=true" alt="faisaliqbal946 GitHub Stats" />
 
 <br />
 
