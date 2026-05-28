@@ -119,15 +119,15 @@ More projects and detailed implementations will be added as I continue learning,
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=faisaliqbal946&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=faisaliqbal19280&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=faisaliqbal946&show_icons=true&theme=tokyonight&hide_border=true" alt="Faisal Iqbal's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=faisaliqbal19280&show_icons=true&theme=tokyonight&hide_border=true" alt="Faisal Iqbal's GitHub Stats" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaliqbal946&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisaliqbal19280&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 </div>
 
